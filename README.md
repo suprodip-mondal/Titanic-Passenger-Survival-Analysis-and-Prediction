@@ -9,8 +9,8 @@ Data cleaning and preprocessing, which involves imputing missing 'Age' values an
 
 Training and comparing three distinct classification models:
 
-Logistic Regression 
-Random Forest 
+Logistic Regression,
+Random Forest,
 Gradient Boosting 
 
 Model evaluation using metrics like Precision, Recall, and F1-Score, along with a comparative ROC curve to visualize AUC scores
